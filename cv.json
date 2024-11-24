@@ -59,7 +59,7 @@
 			"end_month": "03",
 			"end_year": "2023",
 			"description": [
-				"Worked on BlueSkyPlan™, a product for dental treatment planning.",
+				"Worked on BlueSkyPlan, a product for dental treatment planning.",
 				"As a member of a Geometry Team, I spent most of the time researching, implementing, and optimizing advanced algorithms and data structures for mesh and voxel data.",
 				"I dipped my toes into spatial query acceleration, vertical and horizontal parallelism, robust mesh booleans, and more.",
 				"As part of a cloud computing initiative, I led the development of a new, platform-independent build architecture for the existing codebase based on modern CMake and Conan."
