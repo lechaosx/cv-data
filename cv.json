@@ -6,7 +6,7 @@
 	"phone": "+420 605 401 878",
 	"email": "dr.dlabaja@gmail.com",
 	"location": "Brno, Královo Pole",
-	"photo": "https://xdlaba02.github.io/cv-data/profile.jpg",
+	"photo": "https://lechaosx.github.io/cv-data/profile.jpg",
 	"description": "Skilled software engineer with a proven ability to lead and collaboratively tackle complex problems, analyze solutions with their trade-offs, and make sure the implementation meets customer needs. Proactive strategic thinker who can get things done.",
 	"interests": [
 		"Learning",
@@ -19,7 +19,7 @@
 		"Coffee Science",
 		"Gaming"
 	],
-	"github": "github.com/xdlaba02",
+	"github": "github.com/lechaosx",
 	"linkedin": "linkedin.com/in/dlabajad",
 	"experience": [
 		{
@@ -61,7 +61,7 @@
 			"description": [
 				"Worked on BlueSkyPlan, a product for dental treatment planning.",
 				"As a member of a Geometry Team, I spent most of the time researching, implementing, and optimizing advanced algorithms and data structures for mesh and voxel data.",
-				"I dipped my toes into spatial query acceleration, vertical and horizontal parallelism, robust mesh booleans, and more.",
+				"I worked at spatial query acceleration, vertical and horizontal parallelism, robust mesh booleans, and more.",
 				"As part of a cloud computing initiative, I led the development of a new, platform-independent build architecture for the existing codebase based on modern CMake and Conan."
 			],
 			"badges": [
