@@ -27,8 +27,8 @@
 			"company": "Chyron",
 			"start_month": "03",
 			"start_year": "2023",
-			"end_month": "",
-			"end_year": "",
+			"end_month": "05",
+			"end_year": "2025",
 			"description": [
 				"Working as a technical lead of Chyron Weather™, a product for interactive visualization of weather forecasts for broadcast.",
 				"Leading maintenance of a 20-year-old, 10M LOC legacy codebase.",
