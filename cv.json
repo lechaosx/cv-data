@@ -23,6 +23,17 @@
 	"linkedin": "linkedin.com/in/dlabajad",
 	"experience": [
 		{
+			"title": "Software Development Lead",
+			"company": "Panoris",
+			"start_month": "07",
+			"start_year": "2025",
+			"end_month": "07",
+			"end_year": "2025",
+			"description": [
+				"Brief engagement during their leadership transition period. The role was discontinued early due to organizational restructuring and strategic misalignment."
+			]
+		},
+		{
 			"title": "Senior Software Engineer",
 			"company": "Chyron",
 			"start_month": "03",
