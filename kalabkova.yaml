@@ -24,6 +24,10 @@ links:
 theme:
   dark: "#3d5b59"
   light: "#fbb5ad"
+  badge-dark: "--light"
+  badge-text-dark: "--dark"
+  badge-light: "--dark"
+  badge-text-light: "--white"
 
 experience:
   - title: Senior Architect
