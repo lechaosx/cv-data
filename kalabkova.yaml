@@ -1,0 +1,59 @@
+title_before_name: Bc.
+name: Tereza Kalábková
+title_after_name: ""
+position: Senior Architect
+phone: "+1 234 567 890"
+email: tereza.kalabkova@example.com
+location: Prague, Czech Republic
+photo: ""
+description: >
+  Experienced architect specializing in residential and civic projects with a focus
+  on sustainable design and human-centered spaces. Proven track record of delivering
+  complex projects from concept through construction.
+
+interests:
+  - Urban Design
+  - Sustainable Architecture
+  - Photography
+  - Travel
+  - Yoga
+
+links:
+  linkedin: linkedin.com/in/kalabkova
+
+theme:
+  dark: "#7c4a3a"
+  light: "#f4a27a"
+
+experience:
+  - title: Senior Architect
+    company: Example Studio s.r.o.
+    start_month: "01"
+    start_year: "2022"
+    end_month: ""
+    end_year: ""
+    description:
+      - Led design of a multi-family residential complex for 200 units in Prague.
+      - Coordinated with structural engineers, contractors, and municipal authorities.
+      - Introduced BIM workflows that reduced design iteration time by 30%.
+    badges: [AutoCAD, Revit, BIM, SketchUp, "Project Management"]
+
+  - title: Architect
+    company: Urban Form atelier
+    start_month: "06"
+    start_year: "2018"
+    end_month: "12"
+    end_year: "2021"
+    description:
+      - Designed civic and cultural buildings with emphasis on public space quality.
+      - Prepared documentation for building permits and tender procedures.
+    badges: [AutoCAD, Rhino, "Adobe Suite", ArchiCAD]
+
+education:
+  - title: Bachelor's Degree
+    institution: Czech Technical University
+    subinstitution: Faculty of Architecture
+    end_year: "2018"
+    description:
+      - Thesis on adaptive reuse of industrial heritage buildings.
+      - Award for outstanding studio project at annual faculty exhibition.
