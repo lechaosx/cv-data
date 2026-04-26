@@ -22,8 +22,8 @@ links:
   linkedin: linkedin.com/in/kalabkova
 
 theme:
-  dark: "#7c4a3a"
-  light: "#f4a27a"
+  dark: "#3d5b59"
+  light: "#fbb5ad"
 
 experience:
   - title: Senior Architect
